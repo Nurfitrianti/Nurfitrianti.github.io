@@ -1,4 +1,4 @@
-title: Your Title
+title: Pemburu S.Kom
 description: > # this means to ignore newlines until "baseurl:"
   Your description
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -12,7 +12,7 @@ facebook:
 logo: "../css/2016_style/img/icon-large.png"
 
 social: 
-  name: Your Facebook Page
+  name: Nur fitrianti
   link: "https://www.facebook.com/"
 
 google_site_verification: googleXXXXXXXXXXXXXXXX.html
